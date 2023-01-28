@@ -36,7 +36,7 @@ xpack.fleet.packages:
     version: latest
   - name: apm
     version: latest
-
+xpack.encryptedSavedObjects.encryptionKey: a7a6311933d3503b89bc2dbc36572c33a6c10925682e591bffcab6911c06786d
 xpack.fleet.agentPolicies:
   - name: Fleet Server Policy
     id: fleet-server-policy
